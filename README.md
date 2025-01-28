@@ -3,7 +3,7 @@
 I'm a **Digital Design** student passionate about creating intuitive and visually appealing designs. I thrive on solving complex design challenges and exploring creative ideas to bring concepts to life.
 
 ---
-
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=EEC7E1&center=true&vCenter=true&random=false&width=435&lines=A+Front+End+developer+from+Egypt.;A+Software+Engineer+!;Always+learn+new+things+!" alt="Typing SVG" /></a>
 ### 🌟 About Me  
 - 🎓 Currently pursuing my studies in **Digital Design**.  
 - 🌱 Always learning new tools, techniques, and trends in design and technology.  
